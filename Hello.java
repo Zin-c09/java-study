@@ -1,4 +1,4 @@
 public class Hello 
 	{public static void main(String []args)
-		{System.out.println("Hello Thant Zin");
+		{System.out.println("Hello from branch");
 }}
